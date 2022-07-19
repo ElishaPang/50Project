@@ -1,0 +1,29 @@
+[33mcommit 3ffa055fa2e9f738255ffadc3050aa07f6ac7759[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Boxxun <elishapang28@gmail.com>
+Date:   Mon May 30 21:01:37 2022 +0800
+
+    Completed Day 1
+
+[33mcommit 292f8980a192a5b58ce6c21ada3219692e7eb083[m[33m ([m[1;32mcrazycolors[m[33m)[m
+Author: Boxxun <elishapang28@gmail.com>
+Date:   Fri May 27 04:54:37 2022 +0800
+
+    change bg color on body
+
+[33mcommit a0b461263ca5debe707e602ab3988b79f580aa3b[m
+Author: Boxxun <elishapang28@gmail.com>
+Date:   Fri May 27 04:53:36 2022 +0800
+
+    added basic style
+
+[33mcommit 589c8cb4513d284c0d5bc83bf7adc8756c915252[m
+Author: Boxxun <elishapang28@gmail.com>
+Date:   Fri May 27 04:51:00 2022 +0800
+
+    added some logic
+
+[33mcommit b91fc7107b099b20ef2301d96ffc6a9cf7edbd72[m
+Author: Boxxun <elishapang28@gmail.com>
+Date:   Fri May 27 04:44:41 2022 +0800
+
+    empty file first commit
